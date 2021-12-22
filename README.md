@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me
 
-<image align="right" width="400px" src="https://user-images.githubusercontent.com/75029142/136156696-5972f16b-9ba7-410d-a8b2-5eb7f2728b89.jpg" />
+<!-- <image align="right" width="400px" src="https://user-images.githubusercontent.com/75029142/136156696-5972f16b-9ba7-410d-a8b2-5eb7f2728b89.jpg" /> -->
 
 ☑️  I am a sophomore, currently pursuing  B.Tech degree in Computer Science & Engineering(Artificial Intelligence) from Indira Gandhi Delhi Technical University for Women.
 
