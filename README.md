@@ -1,26 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&size=30&center=true&vCenter=true&width=800&height=60&lines=Hey!👋+I+am+Punerva+Singh.;I+am+an+ever-learning+software+developer.)](https://git.io/typing-svg)
+![Github profile intro](https://user-images.githubusercontent.com/79405229/148939304-3d36532f-c85c-4934-ac61-3ae436f8d47c.png)
 
 ---
 
-### 👩‍💻 About Me
+### WHO AM I? 🧐
+❖ A sophomore, currently pursuing  B.Tech degree in Computer Science & Engineering(Artificial Intelligence) from IGDTUW.
 
-<!-- <image align="right" width="400px" src="https://user-images.githubusercontent.com/75029142/136156696-5972f16b-9ba7-410d-a8b2-5eb7f2728b89.jpg" /> -->
+❖ I am a web developer with keen interest in artificial intelligence.
 
-☑️  I am a sophomore, currently pursuing  B.Tech degree in Computer Science & Engineering(Artificial Intelligence) from Indira Gandhi Delhi Technical University for Women.
-
-☑️  I am a web developer with keen interest in artificial intelligence.
-
-☑️  I am selected as a WE Scholar at TalentSprint, and received 100% Scholarship for being among the top 50 out of 27,643 applicants.
-
-☑️  I have been a participant of various programs such as Graduate Rotational Internship Program by The Sparks Foundation, AWS machine learning scholarship, The Uplift project, Girlscript Winter of Contribution, etc.
-
-☑️  I am mentoring 50+ mentees along with four other mentors in the Web development circle of Lean In Society IGDTUW.
-
-☑️  I am looking forward to explore the open source world and share my learnings via contributions.
+❖ I am looking forward to explore the open source world and share my learnings via contributions.
 
 ---
 
-### 🛠 Tools and Technologies I have worked with
+### SKILLSET 👩🏻‍💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,24 +52,25 @@
 
 ---
 
-### 📊 Github analytics
-![Punerva's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunervaSingh&show_icons=true&theme=github_dark)
+### GITHAB STATS 📈
+![Punerva's GitHub stats](https://github-readme-stats.vercel.app/api/?username=PunervaSingh&show_icons=true&title_color=fff&icon_color=f45b69&text_color=9f9f9f&bg_color=000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PunervaSingh&layout=compact&theme=github_dark&card_width=445)
-<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PunervaSingh&theme=highcontrast&currStreakLabel=f45b69&fire=f45b69&ring=f45b69)](https://git.io/streak-stats)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PunervaSingh&layout=compact&theme=github_dark&card_width=445&title_color=fff&toplang=f45b69) -->
 
 ---
-## Github Contributions 📈
+## CONTRIBUTIONS ✨
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=PunervaSingh&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=PunervaSingh&theme=react-dark&hide_border=true&line=f45b69&point=fff&color=fff&hide_title=true">
 <p>
 
-### 🤝 Contact me @
+<!-- ### 🤝 Contact me @
 <a target="_blank" href="https://www.linkedin.com/in/punerva-singh-958305204"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:punerva21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/punerva-singh-958305204
+[linkedin]: https://www.linkedin.com/in/punerva-singh-958305204 -->
 
 <!--
 **PunervaSingh/PunervaSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
