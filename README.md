@@ -37,8 +37,8 @@
 </p>
 
 
----
+<!-- ---
   <h2 align = "center"> 👩🏻‍💻 CONTRIBUTIONS</h2>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=PunervaSingh&theme=react-dark&hide_border=true&line=f45b69&point=fff&color=fff">
-<p>
+<p> -->
